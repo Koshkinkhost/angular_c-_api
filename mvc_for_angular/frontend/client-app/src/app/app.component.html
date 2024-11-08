@@ -1,0 +1,45 @@
+@if(users){
+    @for(user of users; track $index){
+
+        <div>
+            <p>irvnownr</p>
+           <p>{{user.id}}</p> 
+           <p>{{user.login}}</p>
+        </div>
+    }
+}
+@else {
+    <p>ПУСТО</p>
+}
+
+<div style="background-color: green;" class="container">
+    <div class="row">
+        <div class="col-6 offset-3 mt-3">
+            <h2>Пользователи</h2> <!-- Заголовок -->
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>Login</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for(user of users; track user.id) { <!-- Используйте track user.id для улучшения производительности -->
+                    <tr>
+                        <td>{{ user.id }}</td>
+                        <td>{{ user.login }}</td>
+                        <td>
+                            <button class="btn btn-danger">Удалить</button>
+                            <button class="btn btn-primary">Изменить</button>
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<div>руддщ</div>
+<app-login></app-login>
