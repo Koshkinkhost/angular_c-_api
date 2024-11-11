@@ -3,6 +3,7 @@
     public class RegistrationResponse
     {
         public bool success {  get; set; }
-        public List<string> errors { get; set; }
+        public IEnumerable<string> errors { get; set; }
+
     }
 }

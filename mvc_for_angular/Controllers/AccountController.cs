@@ -1,9 +1,11 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.EntityFrameworkCore;
 using mvc_for_angular.frontend.client_app.src.app.ViewModels;
 using mvc_for_angular.models;
 using nginx_project.models;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace mvc_for_angular.Controllers
 {
     public class AccountController(nginx_project.models.AppContext _context) : Controller
@@ -11,16 +13,27 @@ namespace mvc_for_angular.Controllers
         
         private readonly nginx_project.models.AppContext context= _context;
         [HttpPost]
-        public IResult Registration([FromBody]Registration model)
+        public async Task<IResult> Registration([FromBody]Registration model)
         {
-            if (ModelState.IsValid)
+            User? user = await context.users.FirstOrDefaultAsync(u => u.Login == model.Login);
+            if (user != null)
             {
-                return Results.Json(model);
+                return Results.Json(new RegistrationResponse { errors = [ "Пользователь с таким логиином уже есть" ], success = false });
+            }
+            if (ModelState.IsValid )
+            {
+                context.users.Add(new models.User { Login = model.Login, Password = model.Password });
+                await context.SaveChangesAsync();
+                return Results.Json(new RegistrationResponse { errors = ["ПОльзователь успешно зарегистрирован"], success = true });
 
             }
-
-            List<string> errors = ModelState.Values.SelectMany(x => x.Errors).Select(x => x.ErrorMessage).ToList();
-            return Results.Json(new RegistrationResponse{ errors=errors,success=false});
+            else
+            {
+                IEnumerable<string> errors = ModelState.Values.SelectMany(x => x.Errors).Select(x => x.ErrorMessage);
+                return Results.Json(new RegistrationResponse { errors = errors, success = false });
+            }
+           
+          
 
         }
         // GET: Authentification

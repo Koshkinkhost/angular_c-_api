@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|c:\\users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\viewmodels\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\viewmodels\\registrationresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\viewmodels\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\viewmodels\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\models\\appcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\user.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\user.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.server.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{23A5F3F0-6F02-488C-BE6B-410A8EC22A37}|mvc_for_angular\\mvc_for_angular.csproj|solutionrelative:mvc_for_angular\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 29,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistrationResponse.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\ViewModels\\RegistrationResponse.cs",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\ViewModels\\RegistrationResponse.cs",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\ViewModels\\RegistrationResponse.cs",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\ViewModels\\RegistrationResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T16:49:09.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\ViewModels\\Registration.cs",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\ViewModels\\Registration.cs",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\ViewModels\\Registration.cs",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\ViewModels\\Registration.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T18:15:55.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-06T16:52:02.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\login\\login.component.html",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-06T16:51:33.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "mvc_for_angular\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:39:35.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "mvc_for_angular\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:30:14.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.routes.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-11-04T14:49:49.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\index.html",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\index.html",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\index.html",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-11-04T14:47:49.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "app.component.css",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.css",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.css",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.css",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAQwAEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-04T14:44:22.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Models\\Users.cs",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Models\\Users.cs",
+              "RelativeToolTip": "mvc_for_angular\\Models\\Users.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA2wBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:49:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppContext.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Models\\AppContext.cs",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Models\\AppContext.cs",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Models\\AppContext.cs",
+              "RelativeToolTip": "mvc_for_angular\\Models\\AppContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:42:14.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Controllers\\UserController.cs",
+              "RelativeToolTip": "mvc_for_angular\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:33:38.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "app.config.server.ts",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.server.ts",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.server.ts",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.server.ts",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.server.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-28T18:18:17.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "user.ts",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\user.ts",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\user.ts",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\user.ts",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\user.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-28T17:56:28.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.ts",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-28T17:35:31.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.ts",
+              "RelativeToolTip": "mvc_for_angular\\frontend\\client-app\\src\\app\\app.component.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-10-28T17:24:19.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "mvc_for_angular\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T13:17:23.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\appsettings.json",
+              "RelativeDocumentMoniker": "mvc_for_angular\\appsettings.json",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\appsettings.json",
+              "RelativeToolTip": "mvc_for_angular\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T15:59:10.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvc_for_angular\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T15:56:22.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "mvc_for_angular\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T15:50:17.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "mvc_for_angular\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T15:48:21.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvc_for_angular\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-20T15:48:19.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Program.cs",
+              "RelativeDocumentMoniker": "mvc_for_angular\\Program.cs",
+              "ToolTip": "C:\\Users\\boris\\source\\repos\\mvc_for_angular\\mvc_for_angular\\Program.cs",
+              "RelativeToolTip": "mvc_for_angular\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T15:18:28.325Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 52,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

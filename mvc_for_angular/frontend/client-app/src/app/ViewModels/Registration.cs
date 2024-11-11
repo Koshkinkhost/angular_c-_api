@@ -13,10 +13,10 @@ namespace mvc_for_angular.frontend.client_app.src.app.ViewModels
         [EmailAddress]
         public string? Email { get; set; }
         [Required(ErrorMessage = "Password field is required")]
-        [StringLength(5,ErrorMessage ="Password must be more 5 symbols",MinimumLength =5)]
-        public string Password { get; set; }
+        [MinLength(5,ErrorMessage ="Password must be more 5 symbols")]
+        public string? Password { get; set; }
         [Compare("Password",ErrorMessage ="Password must be identical")]
-        public string ConfirmPassword {  get; set; }
+        public string? ConfirmPassword {  get; set; }
 
 
     }
