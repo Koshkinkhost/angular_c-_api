@@ -6,6 +6,10 @@ using mvc_for_angular.frontend.client_app.src.app.ViewModels;
 using mvc_for_angular.models;
 using nginx_project.models;
 using static System.Runtime.InteropServices.JavaScript.JSType;
+using Microsoft.IdentityModel.Tokens;
+using System.Security.Claims;
+using System.IdentityModel.Tokens.Jwt;
+using System.Net.Http.Headers;
 namespace mvc_for_angular.Controllers
 {
     public class AccountController(nginx_project.models.AppContext _context) : Controller
@@ -24,7 +28,10 @@ namespace mvc_for_angular.Controllers
             {
                 context.users.Add(new models.User { Login = model.Login, Password = model.Password });
                 await context.SaveChangesAsync();
-                return Results.Json(new RegistrationResponse { errors = ["ПОльзователь успешно зарегистрирован"], success = true });
+                var encodedJwt = Authentificate(model.Login);
+                Response.Headers["Authorization"] = $"Bearer {encodedJwt}";
+                return Results.Json(new RegistrationResponse { errors = ["Пользователь успешно зарегистрирован"], success = true });
+
 
             }
             else
@@ -32,9 +39,24 @@ namespace mvc_for_angular.Controllers
                 IEnumerable<string> errors = ModelState.Values.SelectMany(x => x.Errors).Select(x => x.ErrorMessage);
                 return Results.Json(new RegistrationResponse { errors = errors, success = false });
             }
+            
            
           
 
+        }
+        public string Authentificate(string username)
+        {
+            var claims = new List<Claim>
+            {
+                new(ClaimsIdentity.DefaultNameClaimType,username)
+            };
+            var jwt = new JwtSecurityToken(
+                issuer:AuthOptions.ISSUER,
+                audience:AuthOptions.ISSUER,
+                claims:claims,
+                expires:DateTime.UtcNow.Add(TimeSpan.FromMinutes(2)),
+                signingCredentials:new SigningCredentials(AuthOptions.GetSymmetricSecurityKey(),SecurityAlgorithms.HmacSha256));
+            return new JwtSecurityTokenHandler().WriteToken(jwt);
         }
         // GET: Authentification
         public ActionResult Index( )
